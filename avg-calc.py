@@ -1,4 +1,3 @@
-
 bgn = 'bgn'
 ro_ro = 'ro_ro'
 loaded_ro = 'loaded_ro'
@@ -18,9 +17,6 @@ other = 9
 quit = 10
 options = 11
 info = 12
-
-
-
 
 #
 #	OTHER TRANSLATIONS CAN BE SUBMITTED TO andrei.hent@gmail.com
@@ -237,15 +233,6 @@ if lang_selection == 1:
 		print('')
 		print('> Invalid command.')
 		print('')
-	
-	
-
-
-
-
-
-
-
 
 #
 #	ROMANIAN CODE
